@@ -2,46 +2,43 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Here you will be found different explications of technologies skills what in my learning path, I am learning. Feel free for explore the proyects and test it in
+your personal pc.
 
-## Getting Started
+This documentation repository has the purpose of documentate my personal tracking as software developer, because when you explain the things what you learn, you understand it in a deep way.
 
-Get started by **creating a new site**.
+Good Energy!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Index Contents
 
-### What you'll need
+```
+> **MySQL**
+--> SQL Syntax Explanation
+--> Explained Exercises
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+> **Express**
+--> Server config init hosting
+--> SQL Integration
 
-## Generate a new site
+> **Docker**
+--> Basic creation of images
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+> **Personal Proyects**
+--> Integrative Proyect
+--> Natillera App
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## About Me
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Hello, I am Jerónimo. I am 18 years old. My path into the software development started since my 14 years, learning with youtube videos about FrontEnd technologies. I like do new thins and always be out of my comfort zone, expanding it day by day. My priority is make the world a better place impacting to them with
+bussiness and solutions that upgrade the life of yall.
 
-## Start your site
+Wanna talk about any bussiness? feel free to do it. I will pay you the coffee!
 
-Run the development server:
+## Social Links
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [GitHub](https://github.com/JeritoBa)
+- [LinkedIn](https://linkedin.com/)
+- [Instagram](https://instagram.com/jgallego.__)
