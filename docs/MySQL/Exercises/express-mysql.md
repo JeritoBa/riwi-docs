@@ -111,13 +111,17 @@ There are the solutions of the exercises since 1 to 10:
 
 There are the solutions of the exercises since 11 to 20:
 
-
+![Image](/img/sql/express-mysql/level2_11-14.png)
+![Image](/img/sql/express-mysql/level2_15-18.png)
+![Image](/img/sql/express-mysql/level2_19-20.png)
 
 ### Level 3
 
 There are the solutions of the exercises since 21 to 30:
 
-
+![Image](/img/sql/express-mysql/level3_21-24.png)
+![Image](/img/sql/express-mysql/level3_25-29.png)
+![Image](/img/sql/express-mysql/level3_30.png)
 
 ### Level 4
 
