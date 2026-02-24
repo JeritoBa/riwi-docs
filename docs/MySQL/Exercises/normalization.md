@@ -2,11 +2,15 @@
 
 In this section, I will make some exercises about DB good practices, following some popular rules knowed as DB normalization. This rules has the purpose of develop more clean databases, what can be scaled with facility.
 
+## Normalization
+
 But, before starting, what is normalization?
 
 Normalization is the process of organize a database, with the purpose of avoid redundace and anomalies, like errors when you insert, update or delete dates.
 
 ---
+
+### Normalization Rules
 
 Here are a list of the most popular normalization rules:
 
@@ -50,9 +54,11 @@ This two rules are the principal bases for a good database, the other rules are 
 
 ---
 
+## Exercises
+
 Now, I will start with the exercises:
 
-## Exercise 1
+### Level 1
 
 ![Image](/img/sql/normalization-excel/level1.png)
 
@@ -60,7 +66,7 @@ And the table must remain like this:
 
 ![Image](/img/sql/normalization-excel/level1_solved.png)
 
-## Exercise 2
+### Level 2
 
 ![Image](/img/sql/normalization-excel/level2.png)
 
@@ -68,7 +74,7 @@ And the table must remain like this:
 
 ![Image](/img/sql/normalization-excel/level2_solved.png)
 
-## Exercise 3
+### Level 3
 
 ![Image](/img/sql/normalization-excel/level3.png)
 
@@ -76,7 +82,7 @@ And the table must remain like this:
 
 ![Image](/img/sql/normalization-excel/level3_solved.png)
 
-## Exercise 4
+### Level 4
 
 ![Image](/img/sql/normalization-excel/level4.png)
 
