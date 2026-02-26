@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Jeronimo Gallego',
-  tagline: 'Personal Repositories Documentations',
+  title: 'Tech Documentations',
+  tagline: 'By Jerónimo Gallego',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Jero Gallego',
+        title: 'Tech',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
