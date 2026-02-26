@@ -5,14 +5,43 @@
   padding: 5rem 0;
   width: 100%;
   background-color: #050a0f;
+  border-bottom: 1px solid #1e293b;
+}
+
+h2.featuresTitle {
+  text-align: center;
+  font-size: 3rem;
 }
 
 .feature {
-  width: 10% !important;
-  background-color: yellow;
+  margin: 2rem;
+  padding: 1rem;
+  padding-top: 3rem;
+  background-color: #0c1218;
+  border-radius: 50px;
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+/* New container */
+
+.featuresContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  justify-items: center;
+  padding: 2rem 0;
+}
+
+/* Each Card */
+
+.featureItem {
+  background-color: #0c1218;
+  border-radius: 50px;
+  padding: 1rem;
+  padding-top: 3rem;
+  margin: 2rem;
 }

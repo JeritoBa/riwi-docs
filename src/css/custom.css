@@ -8,8 +8,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #050a0f ;
-  --ifm-color-primary-dark: #c4d65b;
+  --ifm-color-primary: #00d1ff;
+  --ifm-color-primary-dark: #00d1ff;
   --ifm-color-primary-darker: #a8b657;
   --ifm-color-primary-darkest: #b9d616;
   --ifm-color-primary-light: #6d7736;
@@ -21,8 +21,8 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #c4d65b;
-  --ifm-color-primary-dark: #c4d65b;
+  --ifm-color-primary: #00d1ff;
+  --ifm-color-primary-dark: #00d1ff;
   --ifm-color-primary-darker: #a8b657;
   --ifm-color-primary-darkest: #b9d616;
   --ifm-color-primary-light: #6d7736;
@@ -52,6 +52,10 @@ p {
   margin-bottom: 3rem;
 }
 
+.row {
+  justify-content: center;
+}
+
 /* Navbar */
 
 .navbar {
@@ -76,4 +80,25 @@ p {
   padding-bottom: 1rem;
 }
 
-/* FEAUTRES */
+/* SIDEBAR */
+
+.theme-doc-sidebar-container {
+  background-color: #050a0f;
+}
+
+/* MD Pages */
+
+.main-wrapper {
+  background-color: #050a0f;
+}
+
+.theme-doc-markdown, .markdown {
+  background-color: #050a0f;
+}
+
+/* Footer */
+
+.footer {
+  padding-top: 4rem;
+  background-color: #050a0f;
+}
