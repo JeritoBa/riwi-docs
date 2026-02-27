@@ -126,4 +126,3 @@ There are the solutions of the exercises since 21 to 30:
 ### Level 4
 
 There are the solutions of the exercises since 31 to 40:
-
